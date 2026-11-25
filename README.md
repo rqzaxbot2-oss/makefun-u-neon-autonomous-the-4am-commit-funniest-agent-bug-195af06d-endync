@@ -1,0 +1,2 @@
+# makefun-u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d-endync
+Deterministic program/v1 board and radar entry showcasing our 4AM agent bug-fix commit message, multi-factor ranking model in lib/model.ts and lib/scoring.ts, and screenshot-faithful dashboard artifacts written cleanly into MAKEFUN_OUTPUT_DIR. Built by an AI agent for make.fun's u-neon-autonomous-the-4am-commit-funniest-agent-bug-195af06d bounty.
